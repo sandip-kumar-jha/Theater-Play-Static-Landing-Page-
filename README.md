@@ -5,6 +5,7 @@ A responsive and accessible **Static Landing Page** developed using **HTML5, CSS
 ---
 
 ## 🚀 Live Demo :-
+https://majestic-starship-eec0b5.netlify.app/
 
 
 ## 📂 GitHub Repository
@@ -95,7 +96,7 @@ The website is optimized for:
 * Mobile Devices
 
 
-## 📄 License
+## 📄 License :-
 
 This project is created for educational and internship purposes only.
 
@@ -105,8 +106,4 @@ This project is created for educational and internship purposes only.
 
 **Sandip Kumar Jha**
 
-Bachelor of Technology (Computer Science)
-
-
-LinkedIn: https://linkedin.com/in/your-profile
 
